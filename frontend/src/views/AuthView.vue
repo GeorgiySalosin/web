@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <RouterView/>
+  <p>Авторизация</p>
 </template>
 
 <style scoped></style>
